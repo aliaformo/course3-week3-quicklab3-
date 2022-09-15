@@ -1,5 +1,6 @@
 # course3-week3-quicklab3-
-Solving course3-week3-quicklab3
+
+Solving course3-week3 (git and github) quicklab3
 
 I am editing the README file. 
 
